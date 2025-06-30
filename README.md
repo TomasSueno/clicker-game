@@ -1,1 +1,2 @@
 # clicker-game
+*    @Tomas Sueno
